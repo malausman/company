@@ -15,10 +15,7 @@
 
 
 /*      light colors - used for select dropdown         */
-.container {
- display:grid;
- grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-}
+
 /*           Font Smoothing      */
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
